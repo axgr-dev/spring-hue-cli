@@ -1,4 +1,6 @@
-# Build a Philips Hue CLI with Spring Shell
+# Philips Hue CLI: Manage Your Smart Home with Spring Shell
 
-- [🍿 Watch on YouTube](https://youtube.com/alexgutjahr) (coming soon)
-- [🦩 Read on axgr.dev](https://axgr.dev/?utm_campaign=github-readme&utm_source=github) (coming soon)
+[![YouTube Video](https://img.youtube.com/vi/14vQ2Y0CaLc/0.jpg)](https://youtu.be/14vQ2Y0CaLc)
+
+- [🍿 Watch on YouTube](https://youtu.be/14vQ2Y0CaLc)
+- [🦩 Read on axgr.dev](https://axgr.dev/posts/spring-hue-cli/?utm_campaign=github-readme&utm_source=github)
